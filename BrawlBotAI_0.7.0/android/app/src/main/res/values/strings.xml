@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_description">Permite a BrawlBot enviar gestos táctiles únicamente cuando el usuario pulsa una acción de prueba.</string>
+</resources>
